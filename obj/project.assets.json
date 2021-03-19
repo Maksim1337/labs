@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба\\Microsoft Visual Studio\\2 семестр\\2 лаба\\Лаба 1\\Лаба 1.csproj",
+      "projectUniqueName": "D:\\Учеба\\Microsoft Visual Studio\\2 семестр\\Лаба 1\\Лаба 1.csproj",
       "projectName": "Лаба 1",
-      "projectPath": "D:\\Учеба\\Microsoft Visual Studio\\2 семестр\\2 лаба\\Лаба 1\\Лаба 1.csproj",
+      "projectPath": "D:\\Учеба\\Microsoft Visual Studio\\2 семестр\\Лаба 1\\Лаба 1.csproj",
       "packagesPath": "C:\\Users\\Максик\\.nuget\\packages\\",
-      "outputPath": "D:\\Учеба\\Microsoft Visual Studio\\2 семестр\\2 лаба\\Лаба 1\\obj\\",
+      "outputPath": "D:\\Учеба\\Microsoft Visual Studio\\2 семестр\\Лаба 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Максик\\AppData\\Roaming\\NuGet\\NuGet.Config",
