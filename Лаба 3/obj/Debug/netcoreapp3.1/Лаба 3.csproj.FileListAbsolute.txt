@@ -1,0 +1,13 @@
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.exe
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.deps.json
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.runtimeconfig.json
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.runtimeconfig.dev.json
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.dll
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.pdb
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.csprojAssemblyReference.cache
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.AssemblyInfoInputs.cache
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.AssemblyInfo.cs
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.csproj.CoreCompileInputs.cache
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.dll
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.pdb
+D:\Учеба\Microsoft Visual Studio\2 семестр\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.genruntimeconfig.cache
