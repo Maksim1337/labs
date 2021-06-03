@@ -1,0 +1,7 @@
+D:\Учеба\c#\Лаба 6\bin\Debug\Лаба 6.exe.config
+D:\Учеба\c#\Лаба 6\bin\Debug\Лаба 6.exe
+D:\Учеба\c#\Лаба 6\bin\Debug\Лаба 6.pdb
+D:\Учеба\c#\Лаба 6\obj\Debug\Лаба 6.csprojAssemblyReference.cache
+D:\Учеба\c#\Лаба 6\obj\Debug\Лаба 6.csproj.CoreCompileInputs.cache
+D:\Учеба\c#\Лаба 6\obj\Debug\Лаба 6.exe
+D:\Учеба\c#\Лаба 6\obj\Debug\Лаба 6.pdb
